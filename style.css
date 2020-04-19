@@ -1,1 +1,15 @@
-.ami h1 {color: red};
+h1 {
+	color: blue;
+	background-color: yellow;
+}
+h2 {
+	color:green;
+	background-color: yellow;
+	font-size: 1000%
+}
+
+.me {
+	color:#eac7c7;
+	background-color: #6086e7;
+	font-size: 500%
+}
